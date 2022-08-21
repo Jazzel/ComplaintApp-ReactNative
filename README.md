@@ -1,4 +1,4 @@
-# complaintapp
+# Complaint App
 
 A new Flutter application.
 
